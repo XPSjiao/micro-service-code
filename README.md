@@ -2,7 +2,7 @@
 
 ## 1.服务通信起步练习
 
-主要采用了 HttpClient等进行学习
+主要采用了 HttpClient、restTemplate、webClient进行编写学习
 
 **provide:提供者**
 
